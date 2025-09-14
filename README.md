@@ -1,7 +1,7 @@
 # Interactive Power BI Dashboard — Music Streaming Analysis 🎵
 
-**Author:** [Your Name] | **Role:** Data Analyst Intern  
-**Repo:** Power BI `.pbix` file, screenshots, and insights
+**Author:** Nithya Alfonisa T | **Role:** Data Analyst Intern  
+**Repo:** Power BI `.pbix` file and insights
 
 ## Overview
 This project explores **music streaming data** using Power BI.  
@@ -17,22 +17,17 @@ The dashboard highlights user listening behavior, track popularity, and streamin
 ## Tools & Tech
 - Power BI Desktop (`.pbix`)  
 - Power Query for data transformation  
-- DAX for calculated measures (e.g., total plays, unique listeners, engagement metrics)  
 - Visual storytelling with interactive dashboards  
 
 ## How to View
 - **Download** the `.pbix` file from this repo and open in Power BI Desktop.  
-- Preview the dashboard through included **screenshots** and **PDF export**.  
-- [Optional: Link to Google Drive/Dropbox if .pbix > 100MB]  
 
 ## Files in this Repo
-- `music-streaming-analysis.pbix` — main Power BI file  
-- `screenshot-1.png` … — dashboard screenshots  
-- `dashboard-demo.pdf` — exported PDF  
+- `music-streaming-analysis.pbix` — main Power BI file    
 
 ## Dataset
 Dataset simulates streaming service logs including user sessions, track plays, genres, and timestamps.  
 (*Note: No confidential data included — sample or anonymized data used.*)
 
 ## Contact
-Connect with me on LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+Connect with me on LinkedIn: https://linkedin.com/in/nithya-alfonisa-t
